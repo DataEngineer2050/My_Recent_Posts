@@ -1,0 +1,6 @@
+stage,Total_Candidates,Median_Days_From_Prev_Stage,Dropped_From_Applied_Pct,Step_Conversion_Pct
+Applied,1400,,0.0,100.0
+Screened,682,9 days,51.29,48.71
+Interviewed,263,8 days,81.21,38.56
+Offered,90,9 days,93.57,34.22
+Hired,74,8 days,94.71,82.22
